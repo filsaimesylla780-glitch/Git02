@@ -1,0 +1,7 @@
+[submodule "linuxcnc-ethercat"]
+	path = linuxcnc-ethercat
+	url = https://github.com/sittner/linuxcnc-ethercat.git
+[submodule "ethercat"]
+	path = ethercat
+	url = https://github.com/sittner/ethercat.git
+	branch = uspace
